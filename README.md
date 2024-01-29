@@ -1,6 +1,6 @@
 # NoteTakingApp-Desktop
 
-## Overview
+Overview
 This is a desktop note-taking application built using C# and Windows Forms. It allows users to conveniently create, edit, delete, and save notes.
 
 ## Features
