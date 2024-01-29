@@ -25,22 +25,5 @@ This is a desktop note-taking application built using C# and Windows Forms. It a
 ### Error Handling
 - In case of any errors, the application displays a "Not a valid note" message to the user.
 
-## Usage
-To use the application, simply run the executable file. Follow the on-screen instructions to create, edit, save, or delete notes.
-
-## Installation
-No installation is required. Simply download or clone the repository and run the application.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## Support
-For any questions or issues, please [open an issue](https://github.com/your-username/NoteTakingApp-Desktop/issues) on GitHub.
-
-
-
 https://github.com/caglatunc/NoteTakingApp/assets/95507765/28c3dabb-e511-4139-9a94-e9fd8c284212
 
