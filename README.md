@@ -3,7 +3,7 @@
 This is a desktop note-taking application built using C# and Windows Forms. It allows users to conveniently create, edit, delete, and save notes.
 
 ## Features
-**Data Structure**: Utilizes a DataTable named "notes" to store data, consisting of three columns: Title, Note, and Date.
+__Data Structure__: Utilizes a DataTable named "notes" to store data, consisting of three columns: Title, Note, and Date.
 
 **Form Initialization**: Upon form loading, necessary columns are defined for the DataTable, which is then bound to a DataGridView control named "previousNotes".
 
